@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 * 📔 Brief Biography:
     * Work:
-    </br>— From 2017 to present, I have worked as an IT support technician for two companies
+    </br>— From 2017 to present, I have worked part-time as an IT support technician for two companies
     </br>— Studying Front-end from 01.05.2022 to present
     </br>— Now I'm going to get a job as a frontend developer
     * Education:
