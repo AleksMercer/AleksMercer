@@ -1,23 +1,25 @@
-Hi, I'm Alexander!
-==========================
+# Hi, I'm Alexander!
 
-Frontend Developer
-------------------
-* 📔 Brief Biography:
-    * Work:
-    </br>— From 2017 to present, I have worked part-time as an IT support technician for two companies
-    </br>— Studying Front-end from 01.05.2022 to present
-    </br>— Now I'm going to get a job as a frontend developer
-    * Education:
-    </br>— Graduated from high school in 2018.
-    </br>— Since May 2022, I have studied a lot of IT-material and taken a lot of IT-courses
-    </br>— In 2023, I received a bachelor's degree from the Faculty of "Engineering and Economics" with a major in "Mendegement"
-* 🖥️  See my portfolio at [my repositories](http://github.com/AleksMercer?tab=repositories)
-* 🧠  I am currently studying web-app testing and Redux
+## Frontend Developer
 
-* ✉️  You can contact me at [Kalagaev.Alex.A@gmail.com](mailto:Kalagaev.Alex.A@gmail.com) or [Telegram](https://t.me/Mercerr)
+   **📔 Brief Biography**
+   
+   * 🎓 Education:
+      * Graduated from high school in 2018
+      * Studying Front-end from 01.05.2022 to present
+      * In 2023, I received a bachelor's degree from the Faculty of "Engineering and Economics" with a major in "Mendegement"
+  
+   * 💻 Work:
+      * From 2017 to present, I have worked part-time as an IT support technician for two companies
+      * Now I'm going to get a job as a frontend developer
 
-### Main skills
+   📂  See my portfolio at [my repositories](http://github.com/AleksMercer?tab=repositories)
+   
+   🧠  I am currently studying web-app testing and Redux
+   
+   ✉️  You can contact me at [Kalagaev.Alex.A@gmail.com](mailto:Kalagaev.Alex.A@gmail.com) or [Telegram](https://t.me/Mercerr)
+
+## Main skills
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" title="JavaScript" alt="JavaScript" />
@@ -29,7 +31,7 @@ Frontend Developer
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" title="Git" alt="Git" />
 </p>
 
-### Other skills
+## Other skills
 
 <p align="left">
   
@@ -62,13 +64,14 @@ Frontend Developer
     <img src="https://www.svgrepo.com/show/354588/yarn.svg" width="24" height="24" title ="yarn" alt="yarn" />
 
 * Useful Knowledge:
-    </br>— Knowledge of English between B1-B2 level
-    </br>— University higher mathematics courses
-    </br>— University digital marketing courses
+   * Knowledge of English between B1-B2 level
+    * University higher mathematics courses
+    * University digital marketing courses
+    * Can work in tandem with ChatGPT.
   
 </p>
 
-### Socials
+## Socials
 
 <p align="left"> 
     <a href="https://www.github.com/AleksMercer" target="_blank" rel="noreferrer">
