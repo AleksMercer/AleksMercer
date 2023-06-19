@@ -5,7 +5,7 @@
    **📔 Brief Biography**
    
    * 🎓 Education:
-      * In 2019, I began studying at the Faculty of "Engineering and Economics" with a major in "Mendegement," earning my bachelor's degree in 2023
+      * In 2019, I started in the "Engineering and Economics" faculty and received my bachelor's degree in 2023
       * Studying Front-end from early 2022 to the present
   
    * 💻 Work:
@@ -63,10 +63,10 @@
     <img src="https://www.svgrepo.com/show/354588/yarn.svg" width="24" height="24" title ="yarn" alt="yarn" />
 
 * Useful Knowledge:
-   * Knowledge of English between B1-B2 level
-    * University higher mathematics courses
-    * University digital marketing courses
-    * Can work in tandem with ChatGPT.
+  * Knowledge of English between B1-B2 level
+  * University higher mathematics courses
+  * University digital marketing courses
+  * Can work in tandem with ChatGPT.
   
 </p>
 
