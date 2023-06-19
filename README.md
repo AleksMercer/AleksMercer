@@ -5,9 +5,8 @@
    **📔 Brief Biography**
    
    * 🎓 Education:
-      * Graduated from high school in 2018
-      * Studying Front-end from 01.05.2022 to present
-      * In 2023, I received a bachelor's degree from the Faculty of "Engineering and Economics" with a major in "Mendegement"
+      * In 2019, I began studying at the Faculty of "Engineering and Economics" with a major in "Mendegement," earning my bachelor's degree in 2023
+      * Studying Front-end from early 2022 to the present
   
    * 💻 Work:
       * From 2017 to present, I have worked part-time as an IT support technician for two companies
