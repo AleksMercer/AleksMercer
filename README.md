@@ -14,7 +14,7 @@
 
    📂  See my portfolio at [my repositories](http://github.com/AleksMercer?tab=repositories)
    
-   🧠  I am currently studying web-app testing and Redux
+   🧠  I am currently studying Redux and making new project
    
    ✉️  You can contact me at [Kalagaev.Alex.A@gmail.com](mailto:Kalagaev.Alex.A@gmail.com) or [Telegram](https://t.me/Mercerr)
 
