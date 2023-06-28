@@ -9,7 +9,8 @@
       * Studying Front-end from early 2022 to the present
   
    * 💻 Work:
-      * From 2017 to present, I have worked part-time as an IT support technician for two companies
+      * Since 2017, I have worked as a freelance technical IT-specialist for three companies
+      * Since 2022, I have developed five projects from scratch. From the idea to the release version
       * Now I'm going to get a job as a frontend developer
 
    📂  See my portfolio at [my repositories](http://github.com/AleksMercer?tab=repositories)
