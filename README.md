@@ -7,7 +7,7 @@
    * 🎓 Education:
       * In 2019, I started in the "Engineering and Economics" faculty and received my bachelor's degree in 2023
       * Studying Front-end from early 2022 to the present
-      * In 2023, I started my studies at "ITMO University" majoring in "Software Engineering".
+      * In 2023, I started my studies at "ITMO University" majoring in "Software Engineering"
   
    * 💻 Work:
       * Since 2017, I have worked as a freelance technical IT-specialist for three companies
@@ -66,9 +66,8 @@
 
 * Useful Knowledge:
   * Knowledge of English between B1-B2 level
-  * University higher mathematics courses
-  * University digital marketing courses
-  * Can work in tandem with 'Ai' such as "ChatGPT" & "Claude" and others.
+  * University "Higher Math" & "Digital Marketing" courses
+  * Can work in tandem with 'Ai' such as "ChatGPT" & "Claude" and others
   
 </p>
 
