@@ -7,6 +7,7 @@
    * 🎓 Education:
       * In 2019, I started in the "Engineering and Economics" faculty and received my bachelor's degree in 2023
       * Studying Front-end from early 2022 to the present
+      * In 2023, I started my studies at "ITMO University" majoring in "Software Engineering".
   
    * 💻 Work:
       * Since 2017, I have worked as a freelance technical IT-specialist for three companies
@@ -15,7 +16,7 @@
 
    📂  See my portfolio at [my repositories](http://github.com/AleksMercer?tab=repositories)
    
-   🧠  I am currently studying Redux and making new project
+   🧠  I'm currently studying at ["ITMO University"](https://itmo.ru)
    
    ✉️  You can contact me at [Kalagaev.Alex.A@gmail.com](mailto:Kalagaev.Alex.A@gmail.com) or [Telegram](https://t.me/Mercerr)
 
@@ -24,7 +25,6 @@
 <p align="left">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" title="JavaScript" alt="JavaScript" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" title="TypeScript" alt="TypeScript" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" title="NodeJS" alt="NodeJS" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" title="React" alt="React" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" title="HTML5" alt="HTML5" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" title="CSS3" alt="CSS3" />
@@ -55,19 +55,20 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="24" height="24" title ="Figma" alt="Figma" />
 
 * Other:</br>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="24" height="24" title="NodeJS" alt="NodeJS" />
     <img src="https://lesdieuxducode.com/images/blog/titleimages/indexeddb-0.png" width="24" height="24" title ="IDB" alt="IndexedDB" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png" width="24" height="24" title ="ChatGPT" alt="ChatGPT" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/1200px-ESLint_logo.svg.png" width="24" height="24" title ="Linter" alt="Linter" />
-    <img src="https://www.svgrepo.com/show/306375/markdown.svg" width="24" height="24" title ="MarkDown" alt="MarkDown" />
     <img src="https://www.svgrepo.com/show/507435/terminal.svg" width="24" height="24" title ="Terminal" alt="Terminal" />
     <img src="https://www.svgrepo.com/show/452077/npm.svg" width="24" height="24" title ="npm" alt="npm" />
     <img src="https://www.svgrepo.com/show/354588/yarn.svg" width="24" height="24" title ="yarn" alt="yarn" />
+    <img src="https://www.svgrepo.com/show/306375/markdown.svg" width="24" height="24" title ="MarkDown" alt="MarkDown" />
 
 * Useful Knowledge:
   * Knowledge of English between B1-B2 level
   * University higher mathematics courses
   * University digital marketing courses
-  * Can work in tandem with ChatGPT.
+  * Can work in tandem with 'Ai' such as "ChatGPT" & "Claude" and others.
   
 </p>
 
